@@ -1,0 +1,18 @@
+Nombre:  Ana
+Apellido:  Bolena
+Laboratorio de Programacion 3 -- Calificación:  7
+Deontología Profesional 2 -- Calificación:  6
+Practica Profesionalizante 3 -- Calificación:  9
+Matematica Aplicada 2 -- Calificación:  8
+Nombre:  Luis
+Apellido:  Trujillo
+Laboratorio de Programacion 3 -- Calificación:  9
+Deontología Profesional 2 -- Calificación:  7
+Practica Profesionalizante 3 -- Calificación:  7
+Matematica Aplicada 2 -- Calificación:  8
+Nombre:  Juan
+Apellido:  Perez
+Laboratorio de Programacion 3 -- Calificación:  10
+Deontología Profesional 2 -- Calificación:  7
+Practica Profesionalizante 3 -- Calificación:  8
+Matematica Aplicada 2 -- Calificación:  10
